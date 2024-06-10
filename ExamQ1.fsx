@@ -1,5 +1,5 @@
 //Q1:
-//miaw
+//miaw a
 //me
 let sqrOnlyFirst ls = 
     match ls with  
