@@ -1,5 +1,6 @@
 //Q1:
 //miaw
+//me
 let sqrOnlyFirst ls = 
     match ls with  
     | hd :: _ -> hd * hd 
